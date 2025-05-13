@@ -1,0 +1,10 @@
+profile pic,nums/length username,fullname words,nums/length fullname,name==username,description length,external URL,private,#posts,#followers,#follows,fake
+Yes,0.55,1,0.44,No,0,No,No,33,166,596,Fake
+Yes,0.38,1,0.33,No,21,No,No,44,66,75,Fake
+Yes,0,2,0,No,63,Yes,No,378,34670,1878,Real
+Yes,0,2,0,No,106,Yes,No,526,2338,776,Real
+Yes,0.07,1,0,No,0,No,Yes,0,47,98,Fake
+Yes,0,1,0,Yes,0,No,No,4,88,61,Fake
+Yes,0.27,1,0,No,0,No,Yes,1,51,59,Fake
+Yes,0,2,0,No,134,No,Yes,74,120,112,Real
+Yes,0,2,0,No,0,No,No,8,105,98,Real
